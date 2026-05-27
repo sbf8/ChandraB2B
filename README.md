@@ -1,23 +1,23 @@
 <div align="center">
 
-# 🛰️ CHANDRA B2B
+# CHANDRA B2B
 ### `Inteligência de Dados & Prospecção Estratégica Next-Gen`
 
 [![Versão](https://img.shields.io/badge/v5.5-Stable-00ffcc?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a)](#)
 [![Stack](https://img.shields.io/badge/Stack-DuckDB%20%7C%20Parquet-ff007f?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a)](#)
 [![Licença](https://img.shields.io/badge/Licença-Proprietária-f0b90b?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=1a1a1a)](#)
 
-*Bem-vindo à nova era da inteligência de mercado. O **Chandra B2B** é um ecossistema de alta performance desenhado para processar todo o Big Data da Receita Federal em frações de segundo, transformando dados brutos em uma máquina de escala imprevisível para o seu negócio.*
+*O **Chandra B2B** foi desenhado para processar todo o Big Data da Receita Federal em frações de segundo, transformando dados brutos em uma máquina de escala imprevisível para o seu negócio.*
 
 ---
 
 </div>
 
-## 🌐 Arquitetura do Sistema: Módulos Operacionais
+## Arquitetura do Sistema: Módulos Operacionais
 
 O ambiente do Chandra foi arquitetado para máxima eficiência, segmentado em duas interfaces de alto impacto:
 
-### 🎯 `[MÓDULO 01]` Aquisição & Hyper-Targeting (Vendas e Meta Ads)
+### `[MÓDULO 01]` Aquisição & Hyper-Targeting (Vendas e Meta Ads)
 Projetado para times de *Growth* e Vendas que precisam de precisão cirúrgica no mercado.
 
 * <kbd>⚡ Score de Prioridade</kbd> Algoritmo inteligente que cruza capital social e estrutura para definir quem tem maior potencial de compra.
@@ -25,7 +25,7 @@ Projetado para times de *Growth* e Vendas que precisam de precisão cirúrgica n
 * <kbd>🤖 Lookalike Engine</kbd> Exportação de matrizes de dados higienizadas e formatadas especificamente para o algoritmo da Meta (Facebook/Instagram), maximizando o *Match Rate* dos seus públicos.
 * <kbd>🕵️ Deep Sherlock</kbd> Raio-X corporativo: desvende a malha societária completa, validade cadastral e coordenadas geográficas (Google Maps) de qualquer CNPJ em milissegundos.
 
-### 📊 `[MÓDULO 02]` Dossiê Gold (Business Intelligence)
+### `[MÓDULO 02]` Dossiê Gold (Business Intelligence)
 O painel de comando para consultorias e inteligência competitiva de nível corporativo.
 
 * <kbd>💰 Market Cap Explorer</kbd> Consolidação do volume financeiro de setores inteiros, mapeado por região.
@@ -37,7 +37,7 @@ O painel de comando para consultorias e inteligência competitiva de nível corp
 
 <div align="center">
 
-## 🖥️ INTERFACE DO USUÁRIO (UI)
+## INTERFACE DO USUÁRIO (UI)
 
 > *"A complexidade do Big Data reduzida a cliques."*
 
@@ -53,7 +53,7 @@ O painel de comando para consultorias e inteligência competitiva de nível corp
 
 <br>
 
-## ⚙️ PROTOCOLO DE INICIALIZAÇÃO
+## PROTOCOLO DE INICIALIZAÇÃO
 
 Configure o ambiente local da sua máquina em três etapas rápidas:
 
@@ -70,7 +70,7 @@ Mova a pasta 'base_dados' para o diretório raiz da instalação do Chandra.
 Execute o sistema > Aba ADMIN > "Importar Base".
 <br>
 
-## 💎 UPGRADES & LICENCIAMENTO
+## UPGRADES & LICENCIAMENTO
 
 | Especificação | `[MODO TRIAL]` | `[CHANDRA PRO / ENTERPRISE]` |
 | :--- | :--- | :--- |
@@ -80,7 +80,7 @@ Execute o sistema > Aba ADMIN > "Importar Base".
 | **Chave de Acesso** | 24 Horas (Validação Temporal) | **Assinatura (Mensal / Anual)** |
 <br>
 
-## 🔐 PROTOCOLO DE AUTENTICAÇÃO (HWID)
+## PROTOCOLO DE AUTENTICAÇÃO (HWID)
 
 O Chandra opera sob rigorosa segurança arquitetural. Sua licença é criptografada e atrelada fisicamente aos componentes da sua máquina (`Hardware ID`). 
 
@@ -94,12 +94,12 @@ O Chandra opera sob rigorosa segurança arquitetural. Sua licença é criptograf
   
 [![Solicitar Access Key](https://img.shields.io/badge/SOLICITAR_CHAVE_VIA_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/5534984241729)
 
-<p>👤 <b>Head de Operações:</b> Samuel </p>
+<p>👤 <b>Contato:</b> Samuel </p>
 
 </div>
 <br>
 
-## 🦾 STACK TECNOLÓGICA & DIFERENCIAIS
+## STACK TECNOLÓGICA & DIFERENCIAIS
 
 * 🦅 **DuckDB Engine:** Processamento analítico *in-process* ultrarrápido. O fim das telas de carregamento infinitas.
 * 📦 **Parquet Compression:** Engenharia colunar que esmaga terabytes de dados em gigabytes perfeitamente otimizados.
